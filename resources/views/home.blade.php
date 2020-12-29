@@ -46,7 +46,7 @@
                        <th>Name</th>
                        <th>Contact</th>
                        <th>Email</th>
-                       <th>Dob</th>
+                       <th>DOB</th>
                        <th>About</th>
                        <th>Action</th>
                     </tr>
